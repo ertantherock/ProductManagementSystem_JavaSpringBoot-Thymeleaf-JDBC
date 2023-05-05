@@ -31,17 +31,19 @@ If you'd like to contribute to this project, feel free to submit a pull request.
 ## Credits
 This application was developed by Ertan Kaya
 
-##Application Pictures
+## Application Pictures
+### All Products
 ![1](https://user-images.githubusercontent.com/107481123/236422622-9e1a647e-25d3-4fd5-957b-5f193f74ed63.png)
 
-
-
+### Add Product
 ![2](https://user-images.githubusercontent.com/107481123/236422634-1692952b-0385-4187-8673-8557294d1a82.png)
 
 
-
+### Product Details
 ![3](https://user-images.githubusercontent.com/107481123/236422641-cbcbe813-5858-4b60-9d90-c3c63b1a3dd0.png)
+### Product Update
 ![4](https://user-images.githubusercontent.com/107481123/236422648-e4bbf4d9-d8df-423e-bbba-eb1ee2dc2861.png)
+### Product Delete
 ![5](https://user-images.githubusercontent.com/107481123/236422658-0ffdfc06-6679-4e4b-8cf7-78e1a72838d2.png)
-
+### Product Search
 ![6](https://user-images.githubusercontent.com/107481123/236422668-ab122056-3bfb-43f8-908a-6c8a325c671c.png)
